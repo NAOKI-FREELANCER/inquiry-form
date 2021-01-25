@@ -1,6 +1,12 @@
 # inquiry-form
 
-## 2. サーバの任意の箇所へ、当ファイル`test_sendmai.php`を配置する。
-```bash
-## PHPMailerをインストール
-$ composer require phpmailer/phpmailer
+## 開発環境
+Cloud9
+
+## 実装に費やした時間
+８時間
+
+## 実装中に問題となったこと・工夫したところ
+## 改善点
+## どのような動作テストを行ったか
+## 参考資料又は参考サイト
